@@ -5,3 +5,5 @@
 Установите необходимые пакеты командой pip install -r requirements.txt
 
 Сделайте миграцию командой python manage.py migrate
+
+Запустите сервер командой python manage.py runserver
